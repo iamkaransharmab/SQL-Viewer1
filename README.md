@@ -1,4 +1,4 @@
-# 🚀 REACT SQL Editor
+# 🚀 REACT SQL Viewer1
 
 This is a REACT SQL Editor built using ReactJs and TailwindCSS.
 
@@ -12,7 +12,7 @@ This is a REACT SQL Editor built using ReactJs and TailwindCSS.
 
 Try out the website : [REACT SQL VIEWER1](https://sql-viewer1.vercel.app/)
 
-## 👨‍🔧 Tech Stack
+## 👨‍🔧 Tech Scenes
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -26,7 +26,7 @@ Try out the website : [REACT SQL VIEWER1](https://sql-viewer1.vercel.app/)
 :white_check_mark: Users can download the data in CSV and JSON Format in just one click.\
 :white_check_mark: Users can see query runtime in milliseconds(ms).
 
-## ✍️ Predefined SQL Queries
+## ✍️ Predefined Some SQL Queries
 
 - `select * from customers`
 - `select * from categories`
