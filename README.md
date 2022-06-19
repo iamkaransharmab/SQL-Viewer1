@@ -6,7 +6,7 @@ This is a REACT SQL Editor built using ReactJs and TailwindCSS.
 
 ## 👨‍💻 Demo
 
-<a href="https://github.com/iamkaransharmab/SQL-EDITOR" target="blank">
+<a href="https://github.com/iamkaransharmab/SQL-Viewer1" target="blank">
 <img src="https://img.shields.io/website?url=https://www.codingspace.codes&logo=github&style=flat-square" />
 </a>
 
@@ -35,9 +35,7 @@ Try out the website : [REACT SQL Editor](https://react-sql-editor-view.vercel.ap
 - `select * from orders`
 - `select * from products`
 - `select * from regions`
-- `select * from shippers`
-- `select * from suppliers`
-- `select * from territories`
+
 
 ## ⏱ Page Load Time
 
