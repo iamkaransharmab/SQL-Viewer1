@@ -43,7 +43,7 @@ Page Load time of this website in desktop is in the range of 0.7 s to 0.9s.
 
 I calculated the performance and load time of this website using these two tools Lighthouse Chrome DevTools and BrowserStack SpeedLab.
 
-### [Lighthouse Chrome DevTools Report](https://developers.google.com/web/tools/lighthouse#devtools) (got a perfect 💯)
+### [Lighthouse Chrome DevTools Report](https://developers.google.com/web/tools/lighthouse#devtools) (got a Actual perfect ~💯)
 
 ![lighthouse report](src/assets/screenshots/screenshot-lighthouse.png)
 
