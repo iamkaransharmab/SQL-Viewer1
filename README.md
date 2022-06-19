@@ -1,6 +1,6 @@
 # 🚀 REACT SQL Viewer1
 
-This is a REACT SQL Editor built using ReactJs and TailwindCSS.
+This is a REACT SQL ViEWER1 built using ReactJs and TailwindCSS.
 
 ![Homepage](src/assets/screenshots/screenshot-readme.png)
 
