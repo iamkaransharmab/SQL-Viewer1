@@ -19,7 +19,7 @@ Try out the website : [REACT SQL VIEWER1](https://sql-viewer1.vercel.app/)
 
 ## 👨‍💻 Features
 
-:white_check_mark: Users can get data of any of the predefined SQL queries either by using SQL Editor or Sidebar Menu.\
+:white_check_mark: Users can get data of any of the predefined SQL queries either by using SQL Viewer1 or Sidebar Menu.\
 :white_check_mark: Users can sort data directly by clicking the Table Headers title.\
 :white_check_mark: Users can search for a particular data among many records using the search bar.\
 :white_check_mark: Users can navigate to different pages using pagination.\
@@ -30,20 +30,20 @@ Try out the website : [REACT SQL VIEWER1](https://sql-viewer1.vercel.app/)
 
 - `select * from customers`
 - `select * from categories`
-- `select * from employee_territories`
 - `select * from order_details`
-- `select * from orders`
 - `select * from products`
 - `select * from regions`
+- `select * from orders`
+- `select * from employee_territories`
 
 
 ## ⏱ Page Load Time
 
-Page Load time of this website in desktop is in the range of 0.4 s to 0.6s.
+Page Load time of this website in desktop is in the range of 0.7 s to 0.9s.
 
 I calculated the performance and load time of this website using these two tools Lighthouse Chrome DevTools and BrowserStack SpeedLab.
 
-### [Lighthouse Chrome DevTools Report](https://developers.google.com/web/tools/lighthouse#devtools) (got a perfect 💯)
+### [Lighthouse Chrome DevTools Report](https://developers.google.com/web/tools/lighthouse#devtools) (got a Actual perfect ~💯)
 
 ![lighthouse report](src/assets/screenshots/screenshot-lighthouse.png)
 
