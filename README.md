@@ -19,7 +19,7 @@ Try out the website : [REACT SQL VIEWER1](https://sql-viewer1.vercel.app/)
 
 ## 👨‍💻 Features
 
-:white_check_mark: Users can get data of any of the predefined SQL queries either by using SQL Editor or Sidebar Menu.\
+:white_check_mark: Users can get data of any of the predefined SQL queries either by using SQL Viewer1 or Sidebar Menu.\
 :white_check_mark: Users can sort data directly by clicking the Table Headers title.\
 :white_check_mark: Users can search for a particular data among many records using the search bar.\
 :white_check_mark: Users can navigate to different pages using pagination.\
@@ -30,11 +30,11 @@ Try out the website : [REACT SQL VIEWER1](https://sql-viewer1.vercel.app/)
 
 - `select * from customers`
 - `select * from categories`
-- `select * from employee_territories`
 - `select * from order_details`
-- `select * from orders`
 - `select * from products`
 - `select * from regions`
+- `select * from orders`
+- `select * from employee_territories`
 
 
 ## ⏱ Page Load Time
