@@ -39,7 +39,7 @@ const Navbar = React.memo(({ setQuery, setValue, isOpen, setIsOpen }) => {
 
               <a
                 className="text-gray-300 hover:text-white py-2 rounded-md text-sm font-medium"
-                href="https://github.com/iamkaransharmab/SQL-EDITOR.git"
+                href="https://github.com/iamkaransharmab/SQL-Viewer1.git"
                 target="_blank"
                 rel="noreferrer"
                 title="github repository"
