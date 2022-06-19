@@ -39,7 +39,7 @@ Try out the website : [REACT SQL VIEWER1](https://sql-viewer1.vercel.app/)
 
 ## ⏱ Page Load Time
 
-Page Load time of this website in desktop is in the range of 0.4 s to 0.6s.
+Page Load time of this website in desktop is in the range of 0.7 s to 0.9s.
 
 I calculated the performance and load time of this website using these two tools Lighthouse Chrome DevTools and BrowserStack SpeedLab.
 
